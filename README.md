@@ -1,4 +1,6 @@
-### Hi there 👋
+# TraderHowell
+Geeky by day. Tiki by night. Forever bamboozled.
+Web Dev / Themed Entertainment Software Dev
 
 <!--
 **TraderHowell/TraderHowell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
