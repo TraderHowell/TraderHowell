@@ -1,5 +1,5 @@
 # TraderHowell
-Geeky by day. Tiki by night. Forever bamboozled.
+Geeky by day. Tiki by night. Forever bamboozled.  
 Web Dev / Themed Entertainment Software Dev
 
 <!--
