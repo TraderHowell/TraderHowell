@@ -1,5 +1,5 @@
 # TraderHowell
 Geeky by day. 💻 Tiki by night. 🍹  
-Web Dev / Themed Entertainment Software Dev
+Network Tech / Web Dev / Themed Experience Software Dev
 
 Currently wrapping up projects as a student at the University of South Florida. 🤘
